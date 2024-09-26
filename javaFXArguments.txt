@@ -1,0 +1,1 @@
+--module-path C:\javafx-sdk-21\lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media
