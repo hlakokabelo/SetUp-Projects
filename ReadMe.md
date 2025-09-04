@@ -1,3 +1,9 @@
-As a student assistant. I was tasked with marking weekly practicals, so I would have to download and unzip about 20 pracs. 
-I created this software to do the unzipping for me, and to remove certain configuration files that were automatically created by eclipse. 
-These files would then be replaced by my files, so that eclipse has configuration files that work on my PC.
+# SetUp-Projects
+
+## Description
+As a student assistant, I was tasked with marking around 20 weekly practicals. Each practical was submitted as a zipped file that had to be manually extracted.  
+To streamline the process, I developed **setup-projects**, a tool that:
+
+- Unzips multiple practicals at once  
+- Removes Eclipse-generated configuration files  
+- Replaces them with standardized configuration files to ensure compatibility with my development environment  
